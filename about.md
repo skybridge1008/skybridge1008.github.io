@@ -2,7 +2,7 @@
 layout: page
 title: About
 ---
-# About me
+
 - *A newbie hacker*😊
 - BoB(Best of the Best) 11th generation
 
