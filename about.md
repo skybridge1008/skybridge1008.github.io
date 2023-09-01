@@ -2,7 +2,15 @@
 layout: page
 title: About
 ---
+# About me
+- *A newbie hacker*😊
+- BoB(Best of the Best) 11th generation
 
-**Not Pure Poole** is a simple, beautiful, and powerful Jekyll theme for blogs. It is built on [Poole](https://github.com/poole/poole) and [Pure](https://purecss.io/).
+# Contact
+- [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cgs09046@gmail.com)](mailto:cgs09046@gmail.com)
 
-For more information about Not Pure Poole, please browse the [README](https://github.com/vszhub/not-pure-poole) file.
+# Interests
+- **Pwnable**
+- Web Hacking
+- ~~Bug Hunting~~
+
